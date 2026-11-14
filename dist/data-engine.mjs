@@ -233,3 +233,80 @@ export function rankCandidates({ brawlers = [], history = [], team = 'blue', map
     || (a.tier ? deTierOrder.indexOf(a.tier.tier) : deTierOrder.length) - (b.tier ? deTierOrder.indexOf(b.tier.tier) : deTierOrder.length)
     || deId(a.b.id) - deId(b.b.id));
 }
+
+// These are gaps in the conservative ordering index, not win-rate percentages.
+export const RECOMMENDATION_PRIORITY_GAPS = Object.freeze({ preferred: .015, alternative: .04 });
+
+function dePriorityScore(row) {
+  const score = row?.evidenceScore;
+  if (row?.evidenceKind !== 'statistics' || typeof score !== 'number'
+    || !Number.isFinite(score) || score < 0 || score > 1) return null;
+  const supportedBase = deValidStat(row.stat) && !!deSource({ source: row.stat.source });
+  const supportedPair = Array.isArray(row.pairEvidence) && row.pairEvidence.some(record =>
+    deValidStat(record, DATA_MIN_PAIR_BATTLES) && !!deSource({ source: record.source }));
+  return supportedBase || supportedPair ? score : null;
+}
+
+function dePriorityTier(row) {
+  return row?.tier && deTierOrder.includes(row.tier.tier) && deYoutubeSource(row.tier.source)
+    ? row.tier : null;
+}
+
+/**
+ * Group the already-ranked candidates for THIS PICK. Priority is separate from
+ * the creator's original row.tier: a creator F-tier hero may still be this pick's
+ * best measured choice. Input ordering is preserved within every group.
+ *
+ * Supported measured rows use their evidenceScore gap from the best supported
+ * row in this candidate set: <= .015 preferred, <= .04 alternative, else caution.
+ * The score is a confidence-based ordering index, not a win-rate prediction.
+ * Rows without statistics fall back to their attributed author tier; rows with
+ * no usable evidence stay explicitly ungraded inside caution. No measurements
+ * or source tiers are created or changed. Returned rows are shallow copies with
+ * new priority metadata, so callers and frozen input snapshots remain untouched.
+ */
+export function groupRecommendations(rows = []) {
+  const candidates = Array.isArray(rows) ? rows.filter(row => row && typeof row === 'object') : [];
+  const supportedScores = candidates.map(dePriorityScore).filter(score => score !== null);
+  const best = supportedScores.length ? Math.max(...supportedScores) : null;
+  const groups = [
+    { id: 'preferred', label: '优先推荐',
+      description: '本手实测置信排序指标距当前最佳候选不超过 0.015；仅有作者评级时参考原 S/A 档。这不是预测胜率或作者的新档位。', rows: [] },
+    { id: 'alternative', label: '备选推荐',
+      description: '本手实测置信排序指标差距大于 0.015、且不超过 0.04；仅有作者评级时参考原 B/C 档。保留原始证据与排序。', rows: [] },
+    { id: 'caution', label: '谨慎选择',
+      description: '本手实测置信排序指标差距超过 0.04，或仅有作者 D/F 档评级；没有可用证据的候选明确标为依据不足，不推断其强弱。', rows: [] }
+  ];
+  const byId = new Map(groups.map(group => [group.id, group]));
+  for (const row of candidates) {
+    const score = dePriorityScore(row);
+    let groupId, priority;
+    if (score !== null && best !== null) {
+      const gap = Math.max(0, best - score);
+      // Protect exact decimal boundaries from binary floating-point roundoff.
+      groupId = gap <= RECOMMENDATION_PRIORITY_GAPS.preferred + 1e-12 ? 'preferred'
+        : gap <= RECOMMENDATION_PRIORITY_GAPS.alternative + 1e-12 ? 'alternative' : 'caution';
+      const rule = groupId === 'preferred' ? '与当前最高置信排序指标差距不超过 0.015'
+        : groupId === 'alternative' ? '与当前最高置信排序指标差距大于 0.015、且不超过 0.04'
+          : '与当前最高置信排序指标差距超过 0.04';
+      priority = { groupId, basis: 'statistics', basisLabel: '本手实测排序',
+        description: rule + '。指标用于本手候选排序，不是胜率差，也不改动作者档位。',
+        evidenceScore: score, bestEvidenceScore: best, gap };
+    } else {
+      const author = dePriorityTier(row);
+      if (author) {
+        groupId = ['S', 'A'].includes(author.tier) ? 'preferred'
+          : ['B', 'C'].includes(author.tier) ? 'alternative' : 'caution';
+        priority = { groupId, basis: 'author', basisLabel: '作者评级回退',
+          description: `${author.source.creator} 原 ${author.tier} 档；当前没有可用于本手排序的实测数据，不生成胜率或置信指标。`,
+          authorTier: author.tier, source: author.source };
+      } else {
+        groupId = 'caution';
+        priority = { groupId, basis: 'unavailable', basisLabel: '依据不足',
+          description: '没有可用于本手排序的实测数据或已核实作者评级，暂不判断强弱，也不生成胜率。' };
+      }
+    }
+    byId.get(groupId).rows.push({ ...row, priority });
+  }
+  return groups;
+}
