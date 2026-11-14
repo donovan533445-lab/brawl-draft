@@ -220,7 +220,7 @@ export function rankCandidates({ brawlers = [], history = [], team = 'blue', map
       const target = brawlers.find(item => deId(item.id) === pair.targetId);
       fragments.push(`${pair.kind === 'counter' ? '对阵' : '搭配'} ${target?.name || pair.targetId}：${dePercent(pair.winRate)} / ${pair.battles} 场（${deContextLabel(pair.scope)}，${pair.source.name}）`);
     }
-    if (tier) fragments.push(`${tier.source.creator}：${tier.tier} 档，视频发布 ${String(tier.source.publishedAt).slice(0, 10)}`);
+    if (tier) fragments.push(`${tier.source.creator}：${tier.tier} 档，${tier.source.publishedDateType==='community-repost'?'转载日期':'视频发布'} ${String(tier.source.publishedAt).slice(0, 10)}`);
     if (!evidence.length) fragments.push('尚无可用胜率样本，仅参考该视频评级');
     else if (freshness.stale) fragments.push(freshness.reason === 'expired' ? '缓存已超过 24 小时' : '统计获取时间待核实');
     const row = { b, stat, tier, reason: fragments.join('；'), evidenceKind: evidence.length ? 'statistics' : 'youtube',

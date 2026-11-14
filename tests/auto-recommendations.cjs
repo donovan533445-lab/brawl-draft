@@ -52,7 +52,7 @@ async function installFixtures(context, stats, editorial, history = []) {
     localStorage.setItem('brawl-advice-team', JSON.stringify('blue'));
     localStorage.setItem('brawl-draft-v1', JSON.stringify({ first: 'blue', rule: 'ranked', map: mapId, history: seedHistory }));
   }, { mapId: defaultMap.id, seedHistory: history });
-  await context.route('**/data.bundle.js', route => route.fulfill({ status: 200,
+  await context.route('**/data.bundle.js*', route => route.fulfill({ status: 200,
     contentType: 'text/javascript; charset=utf-8', body: 'window.BRAWL_DATA=' + JSON.stringify([...initial, editorial, stats]) + ';' }));
   await context.route('**/data/live-stats.json*', route => route.fulfill({ status: 200,
     contentType: 'application/json; charset=utf-8', body: JSON.stringify(stats) }));

@@ -43,20 +43,6 @@ jobs:
           node scripts/build.mjs
           node --test tests/*.test.mjs
           node -e "if(require('./asset-report.json').failed.length)process.exit(1)"
-      - name: Verify public tier chart evidence
-        if: github.event_name == 'push'
-        continue-on-error: true
-        run: |
-          mkdir -p work/editorial-evidence
-          curl --fail --location --max-time 30 'https://i.redd.it/02i7azo64t0i1.png' -o work/editorial-evidence/joker-lukii.png
-          curl --fail --location --max-time 30 'https://i.redd.it/bhdbwmiugtzh1.jpeg' -o work/editorial-evidence/spenlc.jpeg
-      - uses: actions/upload-artifact@v4
-        if: github.event_name == 'push'
-        continue-on-error: true
-        with:
-          name: editorial-evidence
-          path: work/editorial-evidence/
-          retention-days: 1
       - uses: actions/configure-pages@v5
         with:
           enablement: true

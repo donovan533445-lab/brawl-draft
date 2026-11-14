@@ -1,8 +1,1118 @@
 {
   "version": 1,
-  "verifiedAt": "2026-11-14",
+  "verifiedAt": "2026-11-15",
   "latestBalanceDate": "2026-11-11",
   "sources": [
+    {
+      "id": "joker-lukii-2026-11-10",
+      "creator": "Joker & Lukii",
+      "title": "Joker and Lukii November 2026 Tier List（社区转载榜单）",
+      "url": "https://www.youtube.com/watch?v=JCHn0LP-_3A",
+      "videoId": "JCHn0LP-_3A",
+      "publishedAt": "2026-11-10",
+      "publishedDateType": "community-repost",
+      "verifiedAt": "2026-11-15",
+      "publishedDateVerification": "2026-11-10 为已核实的社区转载日期，原 YouTube 视频的精确上传日期未读取。",
+      "preLatestBalance": true,
+      "latestBalanceDate": "2026-11-11",
+      "tiers": {
+        "S": [
+          "Lou",
+          "Mr. P",
+          "Colette",
+          "Gale",
+          "Rico",
+          "Amber",
+          "Chester",
+          "Mandy",
+          "Melodie",
+          "Sirius"
+        ],
+        "A": [
+          "Brock",
+          "Squeak",
+          "8-Bit",
+          "Berry",
+          "Nori",
+          "Spike",
+          "Max",
+          "Gus",
+          "Surge",
+          "Ash",
+          "Maisie",
+          "Larry & Lawrie",
+          "Lumi",
+          "Mina"
+        ],
+        "B": [
+          "Piper",
+          "Angelo",
+          "Mortis",
+          "Pierce",
+          "Najia",
+          "Stu",
+          "Emz",
+          "Starr Nova",
+          "Griff",
+          "Gray",
+          "Gene",
+          "Edgar",
+          "Belle",
+          "Hank",
+          "Willow",
+          "Barley",
+          "Glowy",
+          "Ruffs",
+          "Colt",
+          "Pearl",
+          "Carl",
+          "Leon",
+          "Moe",
+          "Charlie",
+          "Finx",
+          "Sprout",
+          "Byron",
+          "Otis",
+          "Cosmo",
+          "R-T",
+          "Penny",
+          "Rosa",
+          "Buzz",
+          "Ziggy",
+          "Juju",
+          "Kaze",
+          "Eve",
+          "Cordelius",
+          "Meeple",
+          "Kit",
+          "Kenji",
+          "Jae-Yong",
+          "Alli",
+          "Wendy"
+        ],
+        "C": [
+          "Gigi",
+          "Bolt",
+          "Damian",
+          "Shade",
+          "Trunk",
+          "Chuck",
+          "Crow",
+          "Draco",
+          "Poco",
+          "Ollie",
+          "Lily",
+          "Nita",
+          "Bo",
+          "Tick",
+          "Janet",
+          "Buster",
+          "Tara",
+          "Sandy",
+          "Lola",
+          "Darryl",
+          "El Primo",
+          "Nani",
+          "Meg",
+          "Doug"
+        ],
+        "D": [
+          "Pam",
+          "Bibi",
+          "Bull",
+          "Fang",
+          "Clancy",
+          "Bonnie",
+          "Bea",
+          "Frank",
+          "Shelly",
+          "Dynamike"
+        ],
+        "F": [
+          "Mico",
+          "Sam",
+          "Jessie",
+          "Grom",
+          "Jacky"
+        ]
+      },
+      "notes": "按社区转载的视频截图逐头像核对转录 107 位英雄，未直接播放原视频；2026-11-10 是转载日期，非已核实的 YouTube 上传日期。原视频链接由转载作者给出。该榜单早于 11 月 11 日调整；Vince 与 Buzz Lightyear 未出现在画面中，保留未评级。同档画面顺序不解释为精确名次。",
+      "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+      "evidenceImageUrl": "https://i.redd.it/02i7azo64t0i1.png",
+      "evidenceImageSha256": "717ea17ba4e05b584be3791849aabdfd226678f25e7e3ede908cc0c361892aa9",
+      "extractionStatus": "complete-visible-chart-secondary-screenshot",
+      "verifiedAssignmentCount": 107,
+      "unrated": [
+        "Vince",
+        "Buzz Lightyear"
+      ],
+      "creatorVerification": "创作者归属来自社区转载标题及视频讲解链接，未读取 YouTube 频道 ID。",
+      "entries": [
+        {
+          "brawlerId": 16000041,
+          "name": "Lou",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000031,
+          "name": "Mr. P",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000039,
+          "name": "Colette",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000035,
+          "name": "Gale",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000004,
+          "name": "Rico",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000040,
+          "name": "Amber",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000063,
+          "name": "Chester",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000065,
+          "name": "Mandy",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000078,
+          "name": "Melodie",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000102,
+          "name": "Sirius",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000003,
+          "name": "Brock",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000047,
+          "name": "Squeak",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000027,
+          "name": "8-Bit",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000082,
+          "name": "Berry",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000107,
+          "name": "Nori",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000005,
+          "name": "Spike",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000032,
+          "name": "Max",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000061,
+          "name": "Gus",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000038,
+          "name": "Surge",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000051,
+          "name": "Ash",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000068,
+          "name": "Maisie",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 11
+        },
+        {
+          "brawlerId": 16000077,
+          "name": "Larry & Lawrie",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 12
+        },
+        {
+          "brawlerId": 16000091,
+          "name": "Lumi",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 13
+        },
+        {
+          "brawlerId": 16000097,
+          "name": "Mina",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 14
+        },
+        {
+          "brawlerId": 16000015,
+          "name": "Piper",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000079,
+          "name": "Angelo",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000011,
+          "name": "Mortis",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000099,
+          "name": "Pierce",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000103,
+          "name": "Najia",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000045,
+          "name": "Stu",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000030,
+          "name": "Emz",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000105,
+          "name": "Starr Nova",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000050,
+          "name": "Griff",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000064,
+          "name": "Gray",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000021,
+          "name": "Gene",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 11
+        },
+        {
+          "brawlerId": 16000043,
+          "name": "Edgar",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 12
+        },
+        {
+          "brawlerId": 16000046,
+          "name": "Belle",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 13
+        },
+        {
+          "brawlerId": 16000069,
+          "name": "Hank",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 14
+        },
+        {
+          "brawlerId": 16000067,
+          "name": "Willow",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 15
+        },
+        {
+          "brawlerId": 16000006,
+          "name": "Barley",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 16
+        },
+        {
+          "brawlerId": 16000101,
+          "name": "Glowy",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 17
+        },
+        {
+          "brawlerId": 16000044,
+          "name": "Ruffs",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 18
+        },
+        {
+          "brawlerId": 16000001,
+          "name": "Colt",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 19
+        },
+        {
+          "brawlerId": 16000072,
+          "name": "Pearl",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 20
+        },
+        {
+          "brawlerId": 16000025,
+          "name": "Carl",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 21
+        },
+        {
+          "brawlerId": 16000023,
+          "name": "Leon",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 22
+        },
+        {
+          "brawlerId": 16000084,
+          "name": "Moe",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 23
+        },
+        {
+          "brawlerId": 16000074,
+          "name": "Charlie",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 24
+        },
+        {
+          "brawlerId": 16000092,
+          "name": "Finx",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 25
+        },
+        {
+          "brawlerId": 16000037,
+          "name": "Sprout",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 26
+        },
+        {
+          "brawlerId": 16000042,
+          "name": "Byron",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 27
+        },
+        {
+          "brawlerId": 16000059,
+          "name": "Otis",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 28
+        },
+        {
+          "brawlerId": 16000109,
+          "name": "Cosmo",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 29
+        },
+        {
+          "brawlerId": 16000066,
+          "name": "R-T",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 30
+        },
+        {
+          "brawlerId": 16000019,
+          "name": "Penny",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 31
+        },
+        {
+          "brawlerId": 16000024,
+          "name": "Rosa",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 32
+        },
+        {
+          "brawlerId": 16000049,
+          "name": "Buzz",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 33
+        },
+        {
+          "brawlerId": 16000098,
+          "name": "Ziggy",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 34
+        },
+        {
+          "brawlerId": 16000087,
+          "name": "Juju",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 35
+        },
+        {
+          "brawlerId": 16000094,
+          "name": "Kaze",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 36
+        },
+        {
+          "brawlerId": 16000056,
+          "name": "Eve",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 37
+        },
+        {
+          "brawlerId": 16000070,
+          "name": "Cordelius",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 38
+        },
+        {
+          "brawlerId": 16000089,
+          "name": "Meeple",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 39
+        },
+        {
+          "brawlerId": 16000076,
+          "name": "Kit",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 40
+        },
+        {
+          "brawlerId": 16000085,
+          "name": "Kenji",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 41
+        },
+        {
+          "brawlerId": 16000093,
+          "name": "Jae-Yong",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 42
+        },
+        {
+          "brawlerId": 16000095,
+          "name": "Alli",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 43
+        },
+        {
+          "brawlerId": 16000108,
+          "name": "Wendy",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 44
+        },
+        {
+          "brawlerId": 16000100,
+          "name": "Gigi",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000106,
+          "name": "Bolt",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000104,
+          "name": "Damian",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000086,
+          "name": "Shade",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000096,
+          "name": "Trunk",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000073,
+          "name": "Chuck",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000012,
+          "name": "Crow",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000080,
+          "name": "Draco",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000013,
+          "name": "Poco",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000090,
+          "name": "Ollie",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000081,
+          "name": "Lily",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 11
+        },
+        {
+          "brawlerId": 16000008,
+          "name": "Nita",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 12
+        },
+        {
+          "brawlerId": 16000014,
+          "name": "Bo",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 13
+        },
+        {
+          "brawlerId": 16000022,
+          "name": "Tick",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 14
+        },
+        {
+          "brawlerId": 16000057,
+          "name": "Janet",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 15
+        },
+        {
+          "brawlerId": 16000062,
+          "name": "Buster",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 16
+        },
+        {
+          "brawlerId": 16000017,
+          "name": "Tara",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 17
+        },
+        {
+          "brawlerId": 16000028,
+          "name": "Sandy",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 18
+        },
+        {
+          "brawlerId": 16000053,
+          "name": "Lola",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 19
+        },
+        {
+          "brawlerId": 16000018,
+          "name": "Darryl",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 20
+        },
+        {
+          "brawlerId": 16000010,
+          "name": "El Primo",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 21
+        },
+        {
+          "brawlerId": 16000036,
+          "name": "Nani",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 22
+        },
+        {
+          "brawlerId": 16000052,
+          "name": "Meg",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 23
+        },
+        {
+          "brawlerId": 16000071,
+          "name": "Doug",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 24
+        },
+        {
+          "brawlerId": 16000016,
+          "name": "Pam",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000026,
+          "name": "Bibi",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000002,
+          "name": "Bull",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000054,
+          "name": "Fang",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000083,
+          "name": "Clancy",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000058,
+          "name": "Bonnie",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000029,
+          "name": "Bea",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000020,
+          "name": "Frank",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000000,
+          "name": "Shelly",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000009,
+          "name": "Dynamike",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000075,
+          "name": "Mico",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000060,
+          "name": "Sam",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000007,
+          "name": "Jessie",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000048,
+          "name": "Grom",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000034,
+          "name": "Jacky",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xsqf2k/joker_and_lukii_november_2026_tier_list/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        }
+      ]
+    },
     {
       "id": "spenlc-s56-2026-11-05",
       "creator": "SpenLC",
@@ -11,170 +1121,1133 @@
       "url": "https://www.youtube.com/watch?v=D1JH7clEP2I",
       "videoId": "D1JH7clEP2I",
       "publishedAt": "2026-11-05",
-      "verifiedAt": "2026-11-14",
-      "publishedDateVerification": "ChannelDB 与 SponsorRadar 索引交叉核对，未读取 YouTube 原始发布日期字段。",
+      "verifiedAt": "2026-11-15",
+      "publishedDateVerification": "发布日期由 ChannelDB、SponsorRadar 与 DraftMeta 视频索引交叉核对，未读取 YouTube 原始日期字段。",
       "preLatestBalance": true,
       "latestBalanceDate": "2026-11-11",
       "tiers": {
         "S": [
-          "Mr. P",
           "Lou",
-          "Gale",
+          "Mr. P",
           "Amber",
-          "Melodie",
-          "Sirius"
+          "Gale",
+          "Chester",
+          "Sirius",
+          "Vince",
+          "Melodie"
         ],
         "A": [
+          "Berry",
+          "Emz",
+          "Rico",
+          "Mandy",
+          "Squeak",
+          "Max",
+          "Colette",
+          "Brock",
+          "8-Bit",
+          "Mina",
+          "Spike",
+          "Stu",
+          "Ash",
+          "Angelo",
+          "Gray",
           "Shade",
-          "Colette"
+          "Lumi",
+          "Nori",
+          "Edgar"
         ],
         "B": [
-          "Damian"
+          "Najia",
+          "Draco",
+          "Cosmo",
+          "Moe",
+          "R-T",
+          "Gus",
+          "Griff",
+          "Belle",
+          "Byron",
+          "Piper",
+          "Surge",
+          "Gene",
+          "Colt",
+          "Kaze",
+          "Mortis",
+          "Carl",
+          "Ruffs",
+          "Buzz",
+          "Otis",
+          "Cordelius",
+          "Larry & Lawrie",
+          "Kenji",
+          "Finx",
+          "Glowy",
+          "Pierce",
+          "Damian",
+          "Barley",
+          "Pearl",
+          "Kit",
+          "Wendy",
+          "Willow"
         ],
         "C": [
+          "Poco",
+          "Gigi",
+          "Starr Nova",
+          "Alli",
+          "Jae-Yong",
+          "Meeple",
+          "Chuck",
+          "Charlie",
+          "Lola",
+          "Darryl",
+          "Bibi",
+          "Sprout",
+          "Leon",
+          "Hank",
+          "Ziggy",
+          "Ollie",
+          "Penny",
           "Shelly",
-          "Chuck"
+          "Nita",
+          "El Primo",
+          "Maisie",
+          "Crow"
         ],
         "D": [
+          "Eve",
+          "Juju",
+          "Jessie",
+          "Buster",
+          "Lily",
+          "Sandy",
+          "Janet",
+          "Meg",
+          "Tara",
+          "Nani",
+          "Pam",
+          "Fang",
+          "Doug",
+          "Frank",
+          "Rosa",
+          "Bull",
+          "Tick",
+          "Bo",
+          "Trunk",
           "Bolt",
-          "Fang"
+          "Mico",
+          "Bonnie"
         ],
         "F": [
           "Bea",
+          "Clancy",
+          "Grom",
+          "Jacky",
+          "Dynamike",
           "Sam"
         ]
       },
-      "notes": "YouTube 链接已从频道索引的外链确认；仅 15 位英雄评级来自社区讨论交叉核验，非视频逐帧或截图转录。发布日期由两个视频索引交叉核对。该视频早于 2026 年 11 月 11 日平衡调整，不能称为本次调整后的最新完整榜单；其余英雄保留未评级。",
+      "notes": "按社区转载的 SpenLC 视频截图逐头像核对转录全部 108 位已发布英雄，未直接播放原视频。YouTube 链接及 2026-11-05 日期经视频索引交叉核对。该榜单早于 11 月 11 日平衡调整，不代表调整后重新评定；Buzz Lightyear 未出现在画面中。同档画面顺序不解释为精确名次。",
       "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+      "evidenceImageUrl": "https://i.redd.it/bhdbwmiugtzh1.jpeg",
+      "evidenceImageSha256": "8c282382415fd5109e29c8e76b283d0398ccb7bf3d89a8a4de7f4f2c11af1ca1",
+      "metadataEvidenceUrls": [
+        "https://channeldb.com/c/%40spenlc/stats",
+        "https://sponsorradar.com/brands/samsung-galaxy",
+        "https://draftmeta.com/games/brawl-stars/brawlers/mr-p/build"
+      ],
+      "verifiedAssignmentCount": 108,
+      "extractionStatus": "complete-visible-chart-secondary-screenshot",
+      "unrated": [
+        "Buzz Lightyear"
+      ],
       "entries": [
-        {
-          "brawlerId": 16000031,
-          "name": "Mr. P",
-          "tier": "S",
-          "evidence": "讨论直接写明 Mr. P 是 S 档，并解释其对单发英雄的优势。",
-          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
-        },
         {
           "brawlerId": 16000041,
           "name": "Lou",
           "tier": "S",
-          "evidence": "讨论直接将 Lou 与 Gale 并列称为 S 档。",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
         },
         {
-          "brawlerId": 16000035,
-          "name": "Gale",
+          "brawlerId": 16000031,
+          "name": "Mr. P",
           "tier": "S",
-          "evidence": "讨论直接将 Gale 与 Lou 并列称为 S 档。",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
         },
         {
           "brawlerId": 16000040,
           "name": "Amber",
           "tier": "S",
-          "evidence": "讨论询问 Amber 仍在 S 档，并有回复解释其在该榜单中的位置。",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
         },
         {
-          "brawlerId": 16000086,
-          "name": "Shade",
-          "tier": "A",
-          "evidence": "讨论明确询问 Shade 为何仍在 A 档。",
-          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
-        },
-        {
-          "brawlerId": 16000000,
-          "name": "Shelly",
-          "tier": "C",
-          "evidence": "讨论直接写明 Shelly 被保留在 C 档。",
-          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
-        },
-        {
-          "brawlerId": 16000106,
-          "name": "Bolt",
-          "tier": "D",
-          "evidence": "讨论明确询问 Bolt 为何在 D 档，回复解释其仍有特定用途。",
-          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
-        },
-        {
-          "brawlerId": 16000029,
-          "name": "Bea",
-          "tier": "F",
-          "evidence": "讨论直接写明 Bea 在 F 档，并有多条回复讨论该位置。",
-          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
-        },
-        {
-          "brawlerId": 16000060,
-          "name": "Sam",
-          "tier": "F",
-          "evidence": "讨论直接认为 Sam 不应被列为 F 档。",
-          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
-        },
-        {
-          "brawlerId": 16000078,
-          "name": "Melodie",
+          "brawlerId": 16000035,
+          "name": "Gale",
           "tier": "S",
-          "evidence": "讨论直接询问 Melodie 为何属于 S 档，另有独立回复再次明确她在 S 档。",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000063,
+          "name": "Chester",
+          "tier": "S",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
         },
         {
           "brawlerId": 16000102,
           "name": "Sirius",
           "tier": "S",
-          "evidence": "讨论直接将 Mr. P 和 Sirius 称为两位 S 档召唤英雄。",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
         },
         {
-          "brawlerId": 16000104,
-          "name": "Damian",
-          "tier": "B",
-          "evidence": "讨论直接质疑 Damian 被列在 B 档。",
+          "brawlerId": 16000110,
+          "name": "Vince",
+          "tier": "S",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
         },
         {
-          "brawlerId": 16000054,
-          "name": "Fang",
-          "tier": "D",
-          "evidence": "讨论直接询问 Fang 为何处于 D 档。",
+          "brawlerId": 16000078,
+          "name": "Melodie",
+          "tier": "S",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 S 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
         },
         {
-          "brawlerId": 16000073,
-          "name": "Chuck",
-          "tier": "C",
-          "evidence": "葡萄牙语讨论明确询问 Melodie 升入 S 档而 Chuck 仍未离开 C 档的原因。",
+          "brawlerId": 16000082,
+          "name": "Berry",
+          "tier": "A",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000030,
+          "name": "Emz",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000004,
+          "name": "Rico",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000065,
+          "name": "Mandy",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000047,
+          "name": "Squeak",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000032,
+          "name": "Max",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
         },
         {
           "brawlerId": 16000039,
           "name": "Colette",
           "tier": "A",
-          "evidence": "以 Colette 为主题的提问下，回复明确说明 A 档仍然很好，并解释作者对她的评价。",
           "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
-          "verification": "community-discussion-confirmation"
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000003,
+          "name": "Brock",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000027,
+          "name": "8-Bit",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000097,
+          "name": "Mina",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000005,
+          "name": "Spike",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 11
+        },
+        {
+          "brawlerId": 16000045,
+          "name": "Stu",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 12
+        },
+        {
+          "brawlerId": 16000051,
+          "name": "Ash",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 13
+        },
+        {
+          "brawlerId": 16000079,
+          "name": "Angelo",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 14
+        },
+        {
+          "brawlerId": 16000064,
+          "name": "Gray",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 15
+        },
+        {
+          "brawlerId": 16000086,
+          "name": "Shade",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 16
+        },
+        {
+          "brawlerId": 16000091,
+          "name": "Lumi",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 17
+        },
+        {
+          "brawlerId": 16000107,
+          "name": "Nori",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 18
+        },
+        {
+          "brawlerId": 16000043,
+          "name": "Edgar",
+          "tier": "A",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 A 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 19
+        },
+        {
+          "brawlerId": 16000103,
+          "name": "Najia",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000080,
+          "name": "Draco",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000109,
+          "name": "Cosmo",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000084,
+          "name": "Moe",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000066,
+          "name": "R-T",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000061,
+          "name": "Gus",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000050,
+          "name": "Griff",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000046,
+          "name": "Belle",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000042,
+          "name": "Byron",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000015,
+          "name": "Piper",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000038,
+          "name": "Surge",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 11
+        },
+        {
+          "brawlerId": 16000021,
+          "name": "Gene",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 12
+        },
+        {
+          "brawlerId": 16000001,
+          "name": "Colt",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 13
+        },
+        {
+          "brawlerId": 16000094,
+          "name": "Kaze",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 14
+        },
+        {
+          "brawlerId": 16000011,
+          "name": "Mortis",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 15
+        },
+        {
+          "brawlerId": 16000025,
+          "name": "Carl",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 16
+        },
+        {
+          "brawlerId": 16000044,
+          "name": "Ruffs",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 17
+        },
+        {
+          "brawlerId": 16000049,
+          "name": "Buzz",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 18
+        },
+        {
+          "brawlerId": 16000059,
+          "name": "Otis",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 19
+        },
+        {
+          "brawlerId": 16000070,
+          "name": "Cordelius",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 20
+        },
+        {
+          "brawlerId": 16000077,
+          "name": "Larry & Lawrie",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 21
+        },
+        {
+          "brawlerId": 16000085,
+          "name": "Kenji",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 22
+        },
+        {
+          "brawlerId": 16000092,
+          "name": "Finx",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 23
+        },
+        {
+          "brawlerId": 16000101,
+          "name": "Glowy",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 24
+        },
+        {
+          "brawlerId": 16000099,
+          "name": "Pierce",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 25
+        },
+        {
+          "brawlerId": 16000104,
+          "name": "Damian",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 26
+        },
+        {
+          "brawlerId": 16000006,
+          "name": "Barley",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 27
+        },
+        {
+          "brawlerId": 16000072,
+          "name": "Pearl",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 28
+        },
+        {
+          "brawlerId": 16000076,
+          "name": "Kit",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 29
+        },
+        {
+          "brawlerId": 16000108,
+          "name": "Wendy",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 30
+        },
+        {
+          "brawlerId": 16000067,
+          "name": "Willow",
+          "tier": "B",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 B 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 31
+        },
+        {
+          "brawlerId": 16000013,
+          "name": "Poco",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000100,
+          "name": "Gigi",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000105,
+          "name": "Starr Nova",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000095,
+          "name": "Alli",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000093,
+          "name": "Jae-Yong",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000089,
+          "name": "Meeple",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000073,
+          "name": "Chuck",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000074,
+          "name": "Charlie",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000053,
+          "name": "Lola",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000018,
+          "name": "Darryl",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000026,
+          "name": "Bibi",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 11
+        },
+        {
+          "brawlerId": 16000037,
+          "name": "Sprout",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 12
+        },
+        {
+          "brawlerId": 16000023,
+          "name": "Leon",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 13
+        },
+        {
+          "brawlerId": 16000069,
+          "name": "Hank",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 14
+        },
+        {
+          "brawlerId": 16000098,
+          "name": "Ziggy",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 15
+        },
+        {
+          "brawlerId": 16000090,
+          "name": "Ollie",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 16
+        },
+        {
+          "brawlerId": 16000019,
+          "name": "Penny",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 17
+        },
+        {
+          "brawlerId": 16000000,
+          "name": "Shelly",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 18
+        },
+        {
+          "brawlerId": 16000008,
+          "name": "Nita",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 19
+        },
+        {
+          "brawlerId": 16000010,
+          "name": "El Primo",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 20
+        },
+        {
+          "brawlerId": 16000068,
+          "name": "Maisie",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 21
+        },
+        {
+          "brawlerId": 16000012,
+          "name": "Crow",
+          "tier": "C",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 C 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 22
+        },
+        {
+          "brawlerId": 16000056,
+          "name": "Eve",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000087,
+          "name": "Juju",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000007,
+          "name": "Jessie",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000062,
+          "name": "Buster",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000081,
+          "name": "Lily",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000028,
+          "name": "Sandy",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
+        },
+        {
+          "brawlerId": 16000057,
+          "name": "Janet",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 7
+        },
+        {
+          "brawlerId": 16000052,
+          "name": "Meg",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 8
+        },
+        {
+          "brawlerId": 16000017,
+          "name": "Tara",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 9
+        },
+        {
+          "brawlerId": 16000036,
+          "name": "Nani",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 10
+        },
+        {
+          "brawlerId": 16000016,
+          "name": "Pam",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 11
+        },
+        {
+          "brawlerId": 16000054,
+          "name": "Fang",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 12
+        },
+        {
+          "brawlerId": 16000071,
+          "name": "Doug",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 13
+        },
+        {
+          "brawlerId": 16000020,
+          "name": "Frank",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 14
+        },
+        {
+          "brawlerId": 16000024,
+          "name": "Rosa",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 15
+        },
+        {
+          "brawlerId": 16000002,
+          "name": "Bull",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 16
+        },
+        {
+          "brawlerId": 16000022,
+          "name": "Tick",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 17
+        },
+        {
+          "brawlerId": 16000014,
+          "name": "Bo",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 18
+        },
+        {
+          "brawlerId": 16000096,
+          "name": "Trunk",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 19
+        },
+        {
+          "brawlerId": 16000106,
+          "name": "Bolt",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 20
+        },
+        {
+          "brawlerId": 16000075,
+          "name": "Mico",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 21
+        },
+        {
+          "brawlerId": 16000058,
+          "name": "Bonnie",
+          "tier": "D",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 D 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 22
+        },
+        {
+          "brawlerId": 16000029,
+          "name": "Bea",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 1
+        },
+        {
+          "brawlerId": 16000083,
+          "name": "Clancy",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 2
+        },
+        {
+          "brawlerId": 16000048,
+          "name": "Grom",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 3
+        },
+        {
+          "brawlerId": 16000034,
+          "name": "Jacky",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 4
+        },
+        {
+          "brawlerId": 16000009,
+          "name": "Dynamike",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 5
+        },
+        {
+          "brawlerId": 16000060,
+          "name": "Sam",
+          "tier": "F",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "evidence": "社区转载的视频画面可见此头像处于 F 档；按同档从左至右、从上至下顺序转录。",
+          "verification": "visual-screenshot-transcription",
+          "positionInTier": 6
         }
-      ],
-      "metadataEvidenceUrls": [
-        "https://channeldb.com/c/%40spenlc/stats",
-        "https://sponsorradar.com/brands/samsung-galaxy"
-      ],
-      "verifiedAssignmentCount": 15,
-      "expectedVideoRosterCount": 108,
-      "extractionStatus": "partial-secondary-confirmation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "spenlc-emergency-nerfs-2026-11-11",
+      "creator": "SpenLC",
+      "title": "23 EMERGENCY Nerfs! Are The Buffies Still Op?!",
+      "url": "https://www.youtube.com/watch?v=ttzC2w0fSpI",
+      "publishedAt": "2026-11-11",
+      "verifiedAt": "2026-11-15",
+      "notes": "补丁解读，未据此改档。链接和日期由 DraftMeta 视频来源索引核对，未直接播放原视频。",
+      "evidenceUrl": "https://draftmeta.com/games/brawl-stars/brawlers/mr-p/build",
+      "type": "patch-commentary"
     }
   ]
 }
