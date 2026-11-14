@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-11-14",
+  "latestBalanceDate": "2026-11-11",
+  "sources": [
+    {
+      "id": "spenlc-s56-2026-11-05",
+      "creator": "SpenLC",
+      "channelUrl": "https://www.youtube.com/@SpenLC",
+      "title": "(S56) PRO Ranks 108 Brawlers From WORST to BEST - Tier List",
+      "url": "https://www.youtube.com/watch?v=D1JH7clEP2I",
+      "videoId": "D1JH7clEP2I",
+      "publishedAt": "2026-11-05",
+      "verifiedAt": "2026-11-14",
+      "publishedDateVerification": "ChannelDB 与 SponsorRadar 索引交叉核对，未读取 YouTube 原始发布日期字段。",
+      "preLatestBalance": true,
+      "latestBalanceDate": "2026-11-11",
+      "tiers": {
+        "S": [
+          "Mr. P",
+          "Lou",
+          "Gale",
+          "Amber",
+          "Melodie",
+          "Sirius"
+        ],
+        "A": [
+          "Shade",
+          "Colette"
+        ],
+        "B": [
+          "Damian"
+        ],
+        "C": [
+          "Shelly",
+          "Chuck"
+        ],
+        "D": [
+          "Bolt",
+          "Fang"
+        ],
+        "F": [
+          "Bea",
+          "Sam"
+        ]
+      },
+      "notes": "YouTube 链接已从频道索引的外链确认；仅 15 位英雄评级来自社区讨论交叉核验，非视频逐帧或截图转录。发布日期由两个视频索引交叉核对。该视频早于 2026 年 11 月 11 日平衡调整，不能称为本次调整后的最新完整榜单；其余英雄保留未评级。",
+      "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+      "entries": [
+        {
+          "brawlerId": 16000031,
+          "name": "Mr. P",
+          "tier": "S",
+          "evidence": "讨论直接写明 Mr. P 是 S 档，并解释其对单发英雄的优势。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000041,
+          "name": "Lou",
+          "tier": "S",
+          "evidence": "讨论直接将 Lou 与 Gale 并列称为 S 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000035,
+          "name": "Gale",
+          "tier": "S",
+          "evidence": "讨论直接将 Gale 与 Lou 并列称为 S 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000040,
+          "name": "Amber",
+          "tier": "S",
+          "evidence": "讨论询问 Amber 仍在 S 档，并有回复解释其在该榜单中的位置。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000086,
+          "name": "Shade",
+          "tier": "A",
+          "evidence": "讨论明确询问 Shade 为何仍在 A 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000000,
+          "name": "Shelly",
+          "tier": "C",
+          "evidence": "讨论直接写明 Shelly 被保留在 C 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000106,
+          "name": "Bolt",
+          "tier": "D",
+          "evidence": "讨论明确询问 Bolt 为何在 D 档，回复解释其仍有特定用途。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000029,
+          "name": "Bea",
+          "tier": "F",
+          "evidence": "讨论直接写明 Bea 在 F 档，并有多条回复讨论该位置。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000060,
+          "name": "Sam",
+          "tier": "F",
+          "evidence": "讨论直接认为 Sam 不应被列为 F 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000078,
+          "name": "Melodie",
+          "tier": "S",
+          "evidence": "讨论直接询问 Melodie 为何属于 S 档，另有独立回复再次明确她在 S 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000102,
+          "name": "Sirius",
+          "tier": "S",
+          "evidence": "讨论直接将 Mr. P 和 Sirius 称为两位 S 档召唤英雄。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000104,
+          "name": "Damian",
+          "tier": "B",
+          "evidence": "讨论直接质疑 Damian 被列在 B 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000054,
+          "name": "Fang",
+          "tier": "D",
+          "evidence": "讨论直接询问 Fang 为何处于 D 档。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000073,
+          "name": "Chuck",
+          "tier": "C",
+          "evidence": "葡萄牙语讨论明确询问 Melodie 升入 S 档而 Chuck 仍未离开 C 档的原因。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        },
+        {
+          "brawlerId": 16000039,
+          "name": "Colette",
+          "tier": "A",
+          "evidence": "以 Colette 为主题的提问下，回复明确说明 A 档仍然很好，并解释作者对她的评价。",
+          "evidenceUrl": "https://www.reddit.com/r/BrawlStarsCompetitive/comments/1xomaxw/new_spenlc_tierlist/",
+          "verification": "community-discussion-confirmation"
+        }
+      ],
+      "metadataEvidenceUrls": [
+        "https://channeldb.com/c/%40spenlc/stats",
+        "https://sponsorradar.com/brands/samsung-galaxy"
+      ],
+      "verifiedAssignmentCount": 15,
+      "expectedVideoRosterCount": 108,
+      "extractionStatus": "partial-secondary-confirmation"
+    }
+  ]
+}
