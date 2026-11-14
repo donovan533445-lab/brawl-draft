@@ -1,0 +1,11 @@
+node_modules/
+asset-report.json
+*.log
+.DS_Store
+work/
+dist/assets/brawlers/
+dist/assets/maps/
+dist/assets/modes/
+dist/assets/icon.png
+dist/app.bundle.js
+dist/data.bundle.js

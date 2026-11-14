@@ -1,0 +1,9 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+const root=path.resolve(import.meta.dirname,'..');
+const engine=(await fs.readFile(path.join(root,'dist/engine.mjs'),'utf8')).replace(/^export /gm,'');
+const app=(await fs.readFile(path.join(root,'dist/app.js'),'utf8')).replace(/^import .*?;\r?\n/,'').replace("const results=await Promise.all(['brawlers','maps','meta'].map(async k=>{const r=await fetch(`./data/${k}.json`);if(!r.ok)throw Error('数据库载入失败');return r.json();}));",'const results=window.BRAWL_DATA;');
+const data=await Promise.all(['brawlers','maps','meta'].map(async k=>JSON.parse(await fs.readFile(path.join(root,'dist/data',k+'.json'),'utf8'))));
+await fs.writeFile(path.join(root,'dist/data.bundle.js'),'window.BRAWL_DATA='+JSON.stringify(data)+';\n');
+await fs.writeFile(path.join(root,'dist/app.bundle.js'),'(function(){\n"use strict";\n'+engine+'\n'+app+'\n})();\n');
+console.log('Built offline-capable site.');
